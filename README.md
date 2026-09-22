@@ -221,4 +221,4 @@ Telegram Messenger is offered as a full free version, with all features and upda
 Take your messaging experience to the next level with Telegram Messenger. **Download now and connect securely!**
 
 ---
-**Last updated:** 2026-09-22 18:36:51 UTC
+**Last updated:** 2026-09-22 21:52:57 UTC
